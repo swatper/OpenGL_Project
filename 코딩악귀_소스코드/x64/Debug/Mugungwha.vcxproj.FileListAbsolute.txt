@@ -1,0 +1,2 @@
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\x64\Debug\Mugungwha.exe
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\x64\Debug\Mugungwha.pdb

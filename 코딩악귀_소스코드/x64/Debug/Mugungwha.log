@@ -1,0 +1,150 @@
+﻿  Mugungwha.cpp
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(37,1): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(40,33): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(104,25): warning C4244: '인수': 'GLfloat'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(104,21): warning C4244: '인수': 'GLfloat'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(106,33): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(124,25): warning C4244: '+=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(249,23): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(249,12): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(253,27): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(253,16): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(257,26): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(257,15): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(261,23): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(261,12): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(303,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(305,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(308,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(321,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(323,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(326,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(340,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(356,12): warning C4244: '인수': 'GLint'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(358,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(363,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(365,12): warning C4244: '인수': 'GLint'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(370,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(371,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(382,32): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(387,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(393,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(394,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(401,23): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(402,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(446,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(452,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(455,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(458,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(465,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(471,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(473,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(476,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(490,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(508,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(512,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(518,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(528,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(530,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(534,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(537,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(541,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(549,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(556,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(562,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(589,32): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(597,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(602,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(630,15): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(631,15): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(683,21): warning C4305: '+=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(765,23): warning C4244: '초기화 중': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(770,36): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(772,19): warning C4244: '인수': 'GLfloat'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(775,19): warning C4244: '인수': 'GLfloat'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(784,36): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(790,28): warning C4244: '인수': 'GLfloat'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(792,19): warning C4244: '인수': 'GLfloat'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(796,19): warning C4244: '인수': 'GLfloat'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(804,27): warning C4244: '인수': 'GLfloat'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(847,16): warning C4244: '인수': 'GLfloat'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(848,24): warning C4244: '인수': 'GLfloat'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(966,46): warning C4244: '인수': 'GLfloat'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(966,37): warning C4244: '인수': 'GLfloat'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(966,28): warning C4244: '인수': 'GLfloat'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(966,18): warning C4244: '인수': 'GLfloat'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(983,19): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(984,20): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(985,21): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(986,21): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(987,21): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(988,19): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(989,20): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(990,20): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(991,20): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(992,19): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(999,31): warning C4244: '인수': 'GLfloat'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(999,23): warning C4244: '인수': 'GLfloat'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1009,17): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1010,17): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1011,17): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1012,17): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1018,32): warning C4244: '인수': 'GLfloat'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1018,26): warning C4244: '인수': 'GLfloat'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1018,16): warning C4244: '인수': 'GLfloat'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1040,23): warning C4244: '인수': 'GLfloat'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1040,19): warning C4244: '인수': 'GLfloat'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1062,15): warning C4244: '인수': 'GLint'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1086,7): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1087,7): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1103,23): warning C4244: '인수': 'GLfloat'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1103,19): warning C4244: '인수': 'GLfloat'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1231,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1236,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1238,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1272,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1274,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1278,32): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1281,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1284,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1291,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1293,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1297,32): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1299,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1302,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1312,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1316,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1326,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1327,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1328,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1329,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1340,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1341,32): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1346,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1350,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1357,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1364,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1366,33): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1381,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1388,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1391,35): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1394,32): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1398,32): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1401,35): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1404,37): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1408,33): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1410,35): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1419,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1423,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1427,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1428,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1429,32): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1430,33): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1433,34): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1436,35): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1437,34): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1438,35): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1439,36): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1445,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\Mugungwha.cpp(1446,33): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  Mugungwha.vcxproj -> C:\Users\박상현\OneDrive\바탕 화면\GitHub\OpenGL\Mugungwha\x64\Debug\Mugungwha.exe
